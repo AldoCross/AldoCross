@@ -119,7 +119,6 @@
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzateoscar33&layout=compact&theme=tokyonight" alt="Top Languages">
   </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AldoCross&margin-w=15&margin-h=15&no-frame=true&theme=tokyonight" alt="Trophies">
 </div>
 
 ---
