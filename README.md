@@ -41,13 +41,13 @@
 
 <!-- REDES SOCIALES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-giovanny-arzate-martinez-6026162a9/">
+  <a href="www.linkedin.com/in/aldocruzsosa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/oscarg.arzate/">
+  <a href="https://sites.google.com/view/aldo-cruz-clases/página-principal?authuser=0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/arzateoscar33">
+  <a href="https://github.com/AldoCross">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
