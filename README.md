@@ -21,8 +21,8 @@
   <div align="left" style="display: inline-block;">
     <h4>🚀 Lo que hago:</h4>
     <ul>
-      <li>📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales[cite: 1].</li>
-      <li>🛡️ Soporte de TI, infraestructura y ciberseguridad[cite: 1].</li>
+      <li>📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales.</li>
+      <li>🛡️ Soporte de TI, infraestructura y ciberseguridad.</li>
       <li>👨‍🏫 Docencia tecnológica, compartiendo conocimientos en programación, bases de datos y ofimática.</li>
     </ul>
   </div>
