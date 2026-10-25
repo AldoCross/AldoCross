@@ -31,6 +31,11 @@
   </a>
 </div>
 <br>
+
+<!-- ANIMACIÓN ABAJO CON ENCABEZADO TURQUESA -->
+<div align="center" style="background-color: #08c4d0; padding: 25px; border-radius: 12px;">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Programador animado" width="380" style="border-radius: 8px;" />
+</div>
 ---
 
 <!-- REDES SOCIALES -->
