@@ -11,9 +11,9 @@
 
 <!-- TARJETA DE PRESENTACIÓN (TEXTO ARRIBA) -->
 <div align="center">
-  <h2>Desarrollador Full Stack 👨‍💻</h2>
+  <h2>Docente de Universidad y Preparatoria 👨‍🏫</h2>
   <p>
-    💻 <b>Ingeniero en Sistemas Computacionales</b> (Instituto Tecnológico de Tijuana)[cite: 1] y <b>Docente de Formación Técnica en CONALEP</b>[cite: 1].<br>
+    💻 <b>Ingeniero en Sistemas Computacionales</b> (Instituto Tecnológico de Tijuana) y <b>Docente de Formación Técnica en CONALEP</b>
     Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
   </p>
 
