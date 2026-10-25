@@ -1,7 +1,7 @@
-<!-- GIF ANIMADO DEL PROGRAMADOR USANDO LA PC -->
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Programador animado" width="400"/>
-</p>
+<!-- ENCABEZADO CERRADO CON FONDO AZUL TURQUESA Y LA ANIMACIÓN -->
+<div align="center" style="background-color: #08c4d0; padding: 25px; border-radius: 12px;">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Programador animado" width="380" style="border-radius: 8px;" />
+</div>
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
 <h3 align="center">
