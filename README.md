@@ -9,24 +9,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;" alt="Typing SVG" />
 </h3>
 
-<!-- TARJETA DE PRESENTACIÓN -->
+<!-- TARJETA DE PRESENTACIÓN (TEXTO ARRIBA) -->
 <div align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   <h2>Desarrollador Full Stack 👨‍💻</h2>
   <p>
- 💻 **Ingeniero en Sistemas Computacionales** (Instituto Tecnológico de Tijuana)y **Docente de Formación Técnica en CONALEP**. 
-Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
-
-#### 🚀 Lo que hago:
-- 📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales[cite: 1].
-- 🛡️ Soporte de TI, infraestructura y ciberseguridad[cite: 1].
-- 👨‍🏫 Docencia tecnológica, compartiendo conocimientos en programación, bases de datos y ofimática.
+    💻 <b>Ingeniero en Sistemas Computacionales</b> (Instituto Tecnológico de Tijuana)[cite: 1] y <b>Docente de Formación Técnica en CONALEP</b>[cite: 1].<br>
+    Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
   </p>
+
+  <div align="left" style="display: inline-block;">
+    <h4>🚀 Lo que hago:</h4>
+    <ul>
+      <li>📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales[cite: 1].</li>
+      <li>🛡️ Soporte de TI, infraestructura y ciberseguridad[cite: 1].</li>
+      <li>👨‍🏫 Docencia tecnológica, compartiendo conocimientos en programación, bases de datos y ofimática.</li>
+    </ul>
+  </div>
+  <br>
   <a href="mailto:aldocruzsosa@gmail.com">
     <img src="https://img.shields.io/badge/Contacto%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<br>
 ---
 
 <!-- REDES SOCIALES -->
