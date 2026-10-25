@@ -15,26 +15,9 @@
   
   <!-- Párrafo con ancho controlado y texto justificado -->
   <p style="text-align: justify; max-width: 650px; margin: 0 auto; padding: 0 15px;">
-    💻 <b>Ingeniero en Sistemas Computacionales</b> (Instituto Tecnológico de Tijuana)[cite: 1] y <b>Docente de Formación Técnica en CONALEP</b>[cite: 1]. 
-    Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
-  </p>
-  
-  <br>
-  <div align="left" style="display: inline-block;">
-    <h4>🚀 Lo que hago:</h4>
-    <ul>
-      <li>📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales[cite: 1].</li>
-      <li>🛡️ Soporte de TI, infraestructura y ciberseguridad[cite: 1].</li>
-      <li>👨‍🏫 Docencia tecnológica, compartiendo conocimientos en programación, bases de datos y ofimática.</li>
-    </ul>
-  </div>
-  <br><br>
-  <a href="mailto:aldocruzsosa@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-<br>
-
+  💻 <b>Ingeniero en Sistemas Computacionales</b> (Instituto Tecnológico de Tijuana) y <b>Docente de Formación Técnica en CONALEP</b> 
+  Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
+    
   <div align="left" style="display: inline-block;">
     <h4>🚀 Lo que hago:</h4>
     <ul>
