@@ -1,6 +1,7 @@
-<!-- ENCABEZADO CERRADO CON FONDO AZUL TURQUESA Y LA ANIMACIÓN -->
-<div align="center" style="background-color: #08c4d0; padding: 25px; border-radius: 12px;">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Programador animado" width="380" style="border-radius: 8px;" />
+<!-- HEADER -->
+<div align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Aldo%20Cruz&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn"
+  alt="header"/>
 </div>
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
@@ -10,17 +11,18 @@
 
 <!-- TARJETA DE PRESENTACIÓN -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   <h2>Desarrollador Full Stack 👨‍💻</h2>
   <p>
-💻 **Ingeniero en Sistemas Computacionales** (Instituto Tecnológico de Tijuana) y **Docente de Formación Técnica en CONALEP**. 
+ 💻 **Ingeniero en Sistemas Computacionales** (Instituto Tecnológico de Tijuana)y **Docente de Formación Técnica en CONALEP**. 
 Tengo experiencia en el desarrollo e implementación de soluciones tecnológicas, administración de sistemas informáticos, bases de datos y gestión de ERPs como Odoo.
+
 #### 🚀 Lo que hago:
 - 📊 Implementación y gestión de sistemas ERP (Odoo) y automatización de procesos empresariales[cite: 1].
 - 🛡️ Soporte de TI, infraestructura y ciberseguridad[cite: 1].
 - 👨‍🏫 Docencia tecnológica, compartiendo conocimientos en programación, bases de datos y ofimática.
   </p>
-  <a href="mailto:aldocruzsosa@@gmail.com">
+  <a href="mailto:aldocruzsosa@gmail.com">
     <img src="https://img.shields.io/badge/Contacto%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
