@@ -113,7 +113,7 @@
 <!-- STATS -->
 <div align="center" width="100%">
   <h1>📈 Estadísticas</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arzateoscar33&theme=tokyonight&hide_border=true" alt="Oscar GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arzateoscar33&theme=tokyonight&hide_border=true" alt="Aldo GitHub Streak">
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=arzateoscar33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </br>
